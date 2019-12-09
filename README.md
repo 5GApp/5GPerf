@@ -1,2 +1,2 @@
 # 5GPerf
-5G networking service performance test benchmark end device, edge service and cloud server.
+5G networking service performance test benchmark for End Eevice, Edge Service and Cloud Server.
